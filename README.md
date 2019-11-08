@@ -1,4 +1,4 @@
-# [about](langstoncl.github.io/FAST-Research-Group/about.html
+# [Link](langstoncl.github.io/FAST-Research-Group/about.html
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/langstoncl/FAST-Research-Group/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
