@@ -15,5 +15,5 @@ Sierra Tutwiler -
 
 Candler Langston - undergratuate volunteer
 
-## [research](research.html)
-## [openings](openings.html)
+## [research](research.html.md)
+## [openings](openings.html.md)
