@@ -1,5 +1,5 @@
 ## [about](https://langstoncl.github.io/FAST-Research-Group/about.html)
-## [research]
+## [research](research.html)
 ## [people]
 ## [openings]
 ## Welcome to GitHub Pages
