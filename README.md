@@ -1,5 +1,12 @@
 ## [about](https://langstoncl.github.io/FAST-Research-Group/about.html)
-## [openings](openings.html)
+## People
+L.B. Carasik - head of FAST
+Cody Wiggens - graduate researcher
+Arturo Cabral - graduate researcher
+Lenin Ixcot-Gramajo - 
+Meryem Murphy - 
+Sierra Tutwiler - 
+Candler Langston - undergratuate volunteer
 ## [research](research.html)
 ## [openings](openings.html)
 ## Welcome to GitHub Pages
