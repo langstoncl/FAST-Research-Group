@@ -3,17 +3,17 @@ The FAST research group is devoted to finding new ways of measuring heat exchang
 ## people
 L.B. Carasik - head of FAST
 
-Cody Wiggens - graduate researcher
+Cody Wiggens - post-doc researcher
 
 Arturo Cabral - graduate researcher
 
-Lenin Ixcot-Gramajo -
+Lenin Ixcot-Gramajo - undergraduate research assistant
 
-Meryem Murphy -
+Meryem Murphy - undergraduate research assistant
 
-Sierra Tutwiler - 
+Sierra Tutwiler - undergraduate research assistant
 
-Candler Langston - undergratuate volunteer
+Candler Langston - undergratuate research assistant
 
 ## [research](research.html.md)
 ## [openings](openings.html.md)
