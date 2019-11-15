@@ -1,4 +1,3 @@
----
 ## to apply for an opening contact Dr. Lane Carasik at [location where this should happen]
 # positions
 ### graduate
@@ -9,4 +8,3 @@ undergraduates will be expected to work as lab assistans and copmlete tasks as a
 Working as an undergrad for the FAST research group should in no way negativly impact your performance in the classroom. If you find you cannot keep-wp with the workload, contact the Group Head to have you work hours adjusted.
 
 ######Remember, your degree comes first!
----
