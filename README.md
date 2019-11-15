@@ -3,7 +3,7 @@ The FAST research group is devoted to finding new ways of measuring heat exchang
 ## people
 L.B. Carasik - head of FAST
 
-Cody Wiggens - post-doc researcher
+Cody Wiggens - post-doctoral researcher
 
 Arturo Cabral - graduate researcher
 
