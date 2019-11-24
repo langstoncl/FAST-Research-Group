@@ -1,14 +1,3 @@
-<!-- Navbar-->
-<nav class="navbar navbar-default ts-custom" role="navigation">
-        <div class="container">
-            <div class="collapse navbar-collapse" id="site-nav-collapse">
-                <ul class="nav navbar-nav">
-                    <li><a href="/faqs/">FAQs</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    
 <nav class="navbar navbar-default ts-custom" role="navigation">
         <div class="container">
             <div class="collapse navbar-collapse" id="site-nav-collapse">
